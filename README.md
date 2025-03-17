@@ -30,5 +30,5 @@ The simulation follows a **Particle-In-Cell (PIC) approach** with:
 ### Running the Code 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/richardyang2026/DiffMPM.git
+   git clone https://github.com/richardyang2026/cs302Final.git
    cd DiffMPM
